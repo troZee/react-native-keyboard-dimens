@@ -12,7 +12,7 @@ const height = useKeyboardDimes()
         value={""}
         placeholder="click it"
       />
-      <Text>{`Result: ${height}`}</Text>
+      <Text>{`Keyboard height: ${height}`}</Text>
     </View>
   );
 }

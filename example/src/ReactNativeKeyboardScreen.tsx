@@ -13,7 +13,7 @@ const height = useKeyboard()
         value={""}
         placeholder="click it"
       />
-      <Text>{`Result: ${height}`}</Text>
+      <Text>{`Keyboard height: ${height}`}</Text>
     </View>
   );
 }
