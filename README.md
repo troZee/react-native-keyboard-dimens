@@ -18,6 +18,11 @@ Correct height - custom solution
 Incorrect height - react native keyboard api
 
 ![](img/incorrect.png)
+
+## How to improve it 
+
+https://twitter.com/chrisbanes/status/1230598177511788545
+
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
