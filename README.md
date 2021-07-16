@@ -23,6 +23,10 @@ Incorrect height - react native keyboard api
 
 https://twitter.com/chrisbanes/status/1230598177511788545
 
+## Other solutions
+
+https://github.com/Crysis21/KeyboardHeightProvider
+
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
